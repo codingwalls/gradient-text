@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    background: linear-gradient(-45deg, rgba(135, 0 ,195, 1), rgba(10, 10, 10, .9));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
